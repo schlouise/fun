@@ -1,2 +1,2 @@
 # fun
-xxx
+no
